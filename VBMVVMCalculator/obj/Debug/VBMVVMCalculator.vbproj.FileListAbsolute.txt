@@ -1,0 +1,13 @@
+C:\Users\TDD-LAB\Documents\Visual Studio 2013\Projects\VBMVVMCalculator\VBMVVMCalculator\bin\Debug\VBMVVMCalculator.exe.config
+C:\Users\TDD-LAB\Documents\LabFiles\VBMVVMCalculator\VBMVVMCalculator\VBMVVMCalculator\bin\Debug\VBMVVMCalculator.exe.config
+C:\Users\TDD-LAB\Documents\LabFiles\VBMVVMCalculator\VBMVVMCalculator\VBMVVMCalculator\bin\Debug\VBMVVMCalculator.exe
+C:\Users\TDD-LAB\Documents\LabFiles\VBMVVMCalculator\VBMVVMCalculator\VBMVVMCalculator\bin\Debug\VBMVVMCalculator.pdb
+C:\Users\TDD-LAB\Documents\LabFiles\VBMVVMCalculator\VBMVVMCalculator\VBMVVMCalculator\bin\Debug\VBMVVMCalculator.xml
+C:\Users\TDD-LAB\Documents\LabFiles\VBMVVMCalculator\VBMVVMCalculator\VBMVVMCalculator\obj\Debug\VBMVVMCalculator.Resources.resources
+C:\Users\TDD-LAB\Documents\LabFiles\VBMVVMCalculator\VBMVVMCalculator\VBMVVMCalculator\obj\Debug\VBMVVMCalculator.vbproj.GenerateResource.Cache
+C:\Users\TDD-LAB\Documents\LabFiles\VBMVVMCalculator\VBMVVMCalculator\VBMVVMCalculator\obj\Debug\VBMVVMCalculator.exe
+C:\Users\TDD-LAB\Documents\LabFiles\VBMVVMCalculator\VBMVVMCalculator\VBMVVMCalculator\obj\Debug\VBMVVMCalculator.xml
+C:\Users\TDD-LAB\Documents\LabFiles\VBMVVMCalculator\VBMVVMCalculator\VBMVVMCalculator\obj\Debug\VBMVVMCalculator.pdb
+C:\Users\TDD-LAB\Documents\LabFiles\VBMVVMCalculator\VBMVVMCalculator\VBMVVMCalculator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\TDD-LAB\Documents\LabFiles\VBMVVMCalculator\VBMVVMCalculator\VBMVVMCalculator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\TDD-LAB\Documents\LabFiles\VBMVVMCalculator\VBMVVMCalculator\VBMVVMCalculator\obj\Debug\VBMVVMCalculator.vbprojResolveAssemblyReference.cache

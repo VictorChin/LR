@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VBMVVMCalculator", "VBMVVMCalculator\VBMVVMCalculator.vbproj", "{68B65C1B-75B6-41E8-9B6A-A31FFB77FE8C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{380731AC-E78A-413A-9E4D-31EE998526A0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UnitTests", "UnitTests", "{9749FAFC-12A4-4BAA-8DF8-285DD913A0FE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "IntegrationTests", "IntegrationTests", "{46192256-259A-424C-AF7B-392C3C361498}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FunctionalTests", "FunctionalTests", "{BDE8820D-5FC9-4784-8E8C-99B1D53CB0B4}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CalculatorTests", "CalculatorTests\CalculatorTests.vbproj", "{72A39792-2401-4656-826D-6E0CED76FC5D}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://chinzilla.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = CalculatorTests\\CalculatorTests.vbproj
+		SccProjectTopLevelParentUniqueName1 = VBMVVMCalculator.sln
+		SccProjectName1 = CalculatorTests
+		SccLocalPath1 = CalculatorTests
+		SccProjectUniqueName2 = VBMVVMCalculator\\VBMVVMCalculator.vbproj
+		SccProjectName2 = VBMVVMCalculator
+		SccLocalPath2 = VBMVVMCalculator
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68B65C1B-75B6-41E8-9B6A-A31FFB77FE8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68B65C1B-75B6-41E8-9B6A-A31FFB77FE8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68B65C1B-75B6-41E8-9B6A-A31FFB77FE8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68B65C1B-75B6-41E8-9B6A-A31FFB77FE8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72A39792-2401-4656-826D-6E0CED76FC5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72A39792-2401-4656-826D-6E0CED76FC5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72A39792-2401-4656-826D-6E0CED76FC5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72A39792-2401-4656-826D-6E0CED76FC5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9749FAFC-12A4-4BAA-8DF8-285DD913A0FE} = {380731AC-E78A-413A-9E4D-31EE998526A0}
+		{46192256-259A-424C-AF7B-392C3C361498} = {380731AC-E78A-413A-9E4D-31EE998526A0}
+		{BDE8820D-5FC9-4784-8E8C-99B1D53CB0B4} = {380731AC-E78A-413A-9E4D-31EE998526A0}
+		{72A39792-2401-4656-826D-6E0CED76FC5D} = {9749FAFC-12A4-4BAA-8DF8-285DD913A0FE}
+	EndGlobalSection
+EndGlobal

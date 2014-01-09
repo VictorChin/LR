@@ -1,0 +1,17 @@
+C:\Users\TDD-LAB\Documents\LabFiles\VBMVVMCalculator\VBMVVMCalculator\CalculatorTests\obj\Debug\CalculatorTests.vbprojResolveAssemblyReference.cache
+C:\Users\TDD-LAB\Documents\LabFiles\VBMVVMCalculator\VBMVVMCalculator\CalculatorTests\obj\Debug\CalculatorTests.Resources.resources
+C:\Users\TDD-LAB\Documents\LabFiles\VBMVVMCalculator\VBMVVMCalculator\CalculatorTests\obj\Debug\CalculatorTests.vbproj.GenerateResource.Cache
+C:\Users\TDD-LAB\Documents\LabFiles\VBMVVMCalculator\VBMVVMCalculator\CalculatorTests\bin\Debug\CalculatorTests.dll
+C:\Users\TDD-LAB\Documents\LabFiles\VBMVVMCalculator\VBMVVMCalculator\CalculatorTests\bin\Debug\CalculatorTests.pdb
+C:\Users\TDD-LAB\Documents\LabFiles\VBMVVMCalculator\VBMVVMCalculator\CalculatorTests\bin\Debug\CalculatorTests.xml
+C:\Users\TDD-LAB\Documents\LabFiles\VBMVVMCalculator\VBMVVMCalculator\CalculatorTests\bin\Debug\Ninject.dll
+C:\Users\TDD-LAB\Documents\LabFiles\VBMVVMCalculator\VBMVVMCalculator\CalculatorTests\bin\Debug\VBMVVMCalculator.exe
+C:\Users\TDD-LAB\Documents\LabFiles\VBMVVMCalculator\VBMVVMCalculator\CalculatorTests\bin\Debug\VBMVVMCalculator.pdb
+C:\Users\TDD-LAB\Documents\LabFiles\VBMVVMCalculator\VBMVVMCalculator\CalculatorTests\bin\Debug\VBMVVMCalculator.xml
+C:\Users\TDD-LAB\Documents\LabFiles\VBMVVMCalculator\VBMVVMCalculator\CalculatorTests\bin\Debug\Ninject.pdb
+C:\Users\TDD-LAB\Documents\LabFiles\VBMVVMCalculator\VBMVVMCalculator\CalculatorTests\bin\Debug\Ninject.xml
+C:\Users\TDD-LAB\Documents\LabFiles\VBMVVMCalculator\VBMVVMCalculator\CalculatorTests\obj\Debug\CalculatorTests.dll
+C:\Users\TDD-LAB\Documents\LabFiles\VBMVVMCalculator\VBMVVMCalculator\CalculatorTests\obj\Debug\CalculatorTests.xml
+C:\Users\TDD-LAB\Documents\LabFiles\VBMVVMCalculator\VBMVVMCalculator\CalculatorTests\obj\Debug\CalculatorTests.pdb
+C:\Users\TDD-LAB\Documents\LabFiles\VBMVVMCalculator\VBMVVMCalculator\CalculatorTests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\TDD-LAB\Documents\LabFiles\VBMVVMCalculator\VBMVVMCalculator\CalculatorTests\bin\Debug\Newtonsoft.Json.xml
