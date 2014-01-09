@@ -1,0 +1,15 @@
+C:\Users\TDD-LAB\Documents\LabFiles\VBMVVMCalculator\VBMVVMCalculator\CalculatorTests\obj\Debug\Fakes\nj\b\Newtonsoft.Json.4.5.0.0.Fakes.xml
+C:\Users\TDD-LAB\Documents\LabFiles\VBMVVMCalculator\VBMVVMCalculator\CalculatorTests\obj\Debug\Fakes\nj\b\Newtonsoft.Json.4.5.0.0.Fakes.dll
+C:\Users\TDD-LAB\Documents\LabFiles\VBMVVMCalculator\VBMVVMCalculator\CalculatorTests\obj\Debug\Fakes\nj\b\Newtonsoft.Json.4.5.0.0.Fakes.pdb
+C:\Users\TDD-LAB\Documents\LabFiles\VBMVVMCalculator\VBMVVMCalculator\CalculatorTests\obj\Debug\Fakes\nj\b\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\TDD-LAB\Documents\LabFiles\VBMVVMCalculator\VBMVVMCalculator\CalculatorTests\obj\Debug\Fakes\nj\b\Newtonsoft.Json.dll
+C:\Users\TDD-LAB\Documents\LabFiles\VBMVVMCalculator\VBMVVMCalculator\CalculatorTests\obj\Debug\Fakes\nj\b\Ninject.dll
+C:\Users\TDD-LAB\Documents\LabFiles\VBMVVMCalculator\VBMVVMCalculator\CalculatorTests\obj\Debug\Fakes\nj\b\VBMVVMCalculator.exe
+C:\Users\TDD-LAB\Documents\LabFiles\VBMVVMCalculator\VBMVVMCalculator\CalculatorTests\obj\Debug\Fakes\nj\b\Newtonsoft.Json.xml
+C:\Users\TDD-LAB\Documents\LabFiles\VBMVVMCalculator\VBMVVMCalculator\CalculatorTests\obj\Debug\Fakes\nj\b\Ninject.pdb
+C:\Users\TDD-LAB\Documents\LabFiles\VBMVVMCalculator\VBMVVMCalculator\CalculatorTests\obj\Debug\Fakes\nj\b\Ninject.xml
+C:\Users\TDD-LAB\Documents\LabFiles\VBMVVMCalculator\VBMVVMCalculator\CalculatorTests\obj\Debug\Fakes\nj\b\VBMVVMCalculator.pdb
+C:\Users\TDD-LAB\Documents\LabFiles\VBMVVMCalculator\VBMVVMCalculator\CalculatorTests\obj\Debug\Fakes\nj\b\VBMVVMCalculator.xml
+C:\Users\TDD-LAB\Documents\LabFiles\VBMVVMCalculator\VBMVVMCalculator\CalculatorTests\obj\Debug\Fakes\nj\o\f.csprojResolveAssemblyReference.cache
+C:\Users\TDD-LAB\Documents\LabFiles\VBMVVMCalculator\VBMVVMCalculator\CalculatorTests\obj\Debug\Fakes\nj\o\Newtonsoft.Json.4.5.0.0.Fakes.dll
+C:\Users\TDD-LAB\Documents\LabFiles\VBMVVMCalculator\VBMVVMCalculator\CalculatorTests\obj\Debug\Fakes\nj\o\Newtonsoft.Json.4.5.0.0.Fakes.pdb

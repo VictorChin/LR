@@ -10,4 +10,9 @@ C:\Users\TDD-LAB\Documents\LabFiles\VBMVVMCalculator\VBMVVMCalculator\VBMVVMCalc
 C:\Users\TDD-LAB\Documents\LabFiles\VBMVVMCalculator\VBMVVMCalculator\VBMVVMCalculator\obj\Debug\VBMVVMCalculator.pdb
 C:\Users\TDD-LAB\Documents\LabFiles\VBMVVMCalculator\VBMVVMCalculator\VBMVVMCalculator\bin\Debug\Newtonsoft.Json.dll
 C:\Users\TDD-LAB\Documents\LabFiles\VBMVVMCalculator\VBMVVMCalculator\VBMVVMCalculator\bin\Debug\Newtonsoft.Json.xml
-C:\Users\TDD-LAB\Documents\LabFiles\VBMVVMCalculator\VBMVVMCalculator\VBMVVMCalculator\obj\Debug\VBMVVMCalculator.vbprojResolveAssemblyReference.cache
+C:\Users\TDD-LAB\Documents\LabFiles\VBMVVMCalculator\VBMVVMCalculator\VBMVVMCalculator\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\TDD-LAB\Documents\LabFiles\VBMVVMCalculator\VBMVVMCalculator\VBMVVMCalculator\bin\Debug\mscorlib.4.0.0.0.Fakes.fakesconfig
+C:\Users\TDD-LAB\Documents\LabFiles\VBMVVMCalculator\VBMVVMCalculator\VBMVVMCalculator\bin\Debug\Newtonsoft.Json.4.5.0.0.Fakes.fakesconfig
+C:\Users\TDD-LAB\Documents\LabFiles\VBMVVMCalculator\VBMVVMCalculator\VBMVVMCalculator\bin\Debug\System.4.0.0.0.Fakes.fakesconfig
+C:\Users\TDD-LAB\Documents\LabFiles\VBMVVMCalculator\VBMVVMCalculator\VBMVVMCalculator\bin\Debug\Newtonsoft.Json.4.5.0.0.Fakes.dll
+C:\Users\TDD-LAB\Documents\LabFiles\VBMVVMCalculator\VBMVVMCalculator\VBMVVMCalculator\bin\Debug\Newtonsoft.Json.4.5.0.0.Fakes.xml

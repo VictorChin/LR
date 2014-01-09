@@ -1,5 +1,6 @@
 ﻿Imports System.IO
 Imports Newtonsoft.Json
+
 Public Class NoteProductionGetter
     Implements INoteProductionGetter
 
@@ -7,7 +8,6 @@ Public Class NoteProductionGetter
     Public Function GetNoteProductionCount(year As Integer, denomination As Integer) As Integer? Implements INoteProductionGetter.GetNoteProductionCount
 
         Dim respsone = Net.WebRequest.Create("https://explore.data.gov/resource/annual-production-figures-of-united-states-currency.json").GetResponse()
-
         Dim sr = New StreamReader(respsone.GetResponseStream())
         Dim col = JsonConvert.DeserializeObject(Of RootObject())(sr.ReadToEnd())
 
@@ -18,10 +18,7 @@ Public Class NoteProductionGetter
                 Select New With {.BillCount = p.GetBillCount(denom)}
 
         Return q.First.BillCount
-
     End Function
-
-
 End Class
 Public Enum BillName
     One = 1
@@ -32,16 +29,7 @@ Public Enum BillName
     Fifty = 50
     Hundred = 100
 End Enum
-Friend Class RootObject
-    Public fiscal_year As String
-    Public _20_bills As String
-    Public _2_bills As String
-    Public _100_bills As String
-    Public _10_bills As String
-    Public _5_bills As String
-    Public _50_bills As String
-    Public _1_bills As String
-
+Public Class RootObject
     Public Function GetBillCount(bill As BillName) As Integer?
         Select Case bill
             Case BillName.One
@@ -63,6 +51,14 @@ Friend Class RootObject
         End Select
 
     End Function
+    Public fiscal_year As String
+    Public _20_bills As String
+    Public _2_bills As String
+    Public _100_bills As String
+    Public _10_bills As String
+    Public _5_bills As String
+    Public _50_bills As String
+    Public _1_bills As String
 End Class
 Public Interface INoteProductionGetter
     Function GetNoteProductionCount(year As Integer, denomination As Integer) As Integer?

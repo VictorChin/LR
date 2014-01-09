@@ -5,8 +5,15 @@
         _getter = getter
     End Sub
     Public Sub Calculate() Implements ICalculatorModel.Calculate
-        result = _getter.GetNoteProductionCount(Input1, Input2)
-
+        If (Input1 Is Nothing) OrElse (Input2 Is Nothing) Then
+            Throw New ArgumentException("call bradley")
+        End If
+        Dim billCount = _getter.GetNoteProductionCount(Input1, Input2)
+        If (billCount Is Nothing) Then
+            result = 0
+        Else
+            result = billCount
+        End If
     End Sub
 
     Public Property Input1 As Integer? Implements ICalculatorModel.Input1
